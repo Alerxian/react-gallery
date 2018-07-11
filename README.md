@@ -1,2 +1,2 @@
-# react-gallery
-a photo gallery based on react.
+基于React打造画廊
+##项目概览
